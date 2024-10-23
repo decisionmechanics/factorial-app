@@ -8,7 +8,7 @@ def calculate_factorial(n):
 
 
 def display_factorial(n):
-    print(f"{n}! is {calculate_factorial(n)}!!!!!")
+    print(f"{n}! is {calculate_factorial(n)}!!!")
 
 
 def main():
